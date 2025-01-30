@@ -39,6 +39,7 @@ I love blending software with hardware – creating projects that control the ph
 
  Tech Stack & Skills
 🚀 Full Stack Development
+
 Frontend: Next.js, React, Tailwind CSS, Bootstrap, JavaScript, TypeScript
 Backend: Node.js/Express, Java/Spring Boot, ASP.NET Core
 Databases: MySQL, MongoDB
@@ -49,5 +50,6 @@ Machine Learning & AI: Artificial Neural Networks (ANN)
 Tools & Technologies: Docker, CI/CD (Jenkins)
 Version Control: Git
 Containers: Docker
+
 📌 Development Workflow
 Agile Development, Jira, Figma
