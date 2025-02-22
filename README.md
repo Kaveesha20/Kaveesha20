@@ -6,7 +6,6 @@ Hi, I'm Kaveesha Nirmani! 👋
 
 📚 Constantly learning, building innovative projects, and contributing to open-source.
 
-Here are some ideas to get you started:
 
 🔭 I’m currently working on:
 Building a mobile app using Flutter.
@@ -17,6 +16,7 @@ DevOps Projects – Implementing CI/CD pipelines and automating workflows using 
 🌱 I’m currently learning:
 Machine Learning (ML) and Artificial Neural Networks (ANN).
 Cloud Computing and AWS for scaling applications.
+
 
 👯 I’m looking to collaborate on:
 Open-source projects related to embedded systems, cloud architecture, and machine learning.
@@ -40,8 +40,8 @@ I love blending software with hardware – creating projects that control the ph
  Tech Stack & Skills
 🚀 Full Stack Development
 
-Frontend: Next.js, React, Tailwind CSS, Bootstrap, JavaScript, TypeScript
-Backend: Node.js/Express, Java/Spring Boot, ASP.NET Core
+Frontend: React, Tailwind CSS,  JavaScript
+Backend: Node.js/Express, Java
 Databases: MySQL, MongoDB
 🔌 Hardware & Embedded Systems
 HDL: Verilog/FPGA
