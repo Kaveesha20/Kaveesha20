@@ -1,6 +1,6 @@
 KAVEESHA NIRMANI
 AI/ML & Big Data Engineer  
-Galle, Sri Lanka • [LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername) • [Portfolio](https://yourportfolio.com)
+Galle, Sri Lanka • [LinkedIn — Kaveesha Nirmani](https://www.linkedin.com/in/kaveesha-nirmani-795671242/) • [GitHub](https://github.com/Kaveesha20) • [Portfolio](https://github.com/Kaveesha20/Portfolio)
 
 SUMMARY
 Final-year Computer Engineering student building production ML and big-data systems (RL, RAG, Kafka, Spark). 6‑month industry placement at Sri Lanka Telecom.
@@ -20,4 +20,4 @@ EXPERIENCE
 AI/ML Industrial Trainee — Sri Lanka Telecom PLC (6 months): built Sinhala ASR, feature/bug analysis tools, and image-processing solutions.
 
 CONTACT
-[LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername) • [Portfolio](https://yourportfolio.com)
+[LinkedIn — Kaveesha Nirmani](https://www.linkedin.com/in/kaveesha-nirmani-795671242/) • [GitHub](https://github.com/Kaveesha20) • [Portfolio](https://github.com/Kaveesha20/Portfolio)
